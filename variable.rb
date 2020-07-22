@@ -3,3 +3,4 @@
 puts "greeting in variable.rb is #{greeting}"
 greeting = "Hello World"
 greeting = "Hello world"
+puts greeting
